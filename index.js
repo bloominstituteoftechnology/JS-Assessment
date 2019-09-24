@@ -13,23 +13,31 @@
  * Sample data expected output: `Luke Skywalker`
 */
 function getName(character) {
-  // ⭐️ Example Solution Provided For First Function ⭐️
-  return character.name
+  //write code here
+}
+
+
+/**
+ * ### Challenge `getHome`
+ * @instructions
+ * Must return input object's `name` property and `homeworld` property.
+ *
+ * Sample data expected output: `Luke Skywalker is from Tatooine`
+*/
+function getHome(character) {
+  //write code here
 }
 
 /**
- * ### Challenge `getFilmCount`
+ * ### Challenge `firstStarshipCost`
  * @instructions
- * Must return the number of elements in the `films` property.
+ * Must return character's first starship's `cost_in_credits` property if there are no starships return null.
  *
- * Sample data expected output: 5
- */
-function getFilmCount(character) {
-  // TODO: Add your code inside the functions (others below).
-
+ * Sample data expected output: 149999
+*/
+function firstStarshipCost(character) {
+  //write code here
 }
-
-
 
 
 
@@ -41,7 +49,9 @@ if (typeof exports !== 'undefined') {
   // For Node/Non-browser test env
   module.exports = module.exports || {}
   if (getName) { module.exports.getName = getName }
-  if (getFilmCount) { module.exports.getFilmCount = getFilmCount }
+  if (getHome) { module.exports.getHome = getHome }
+  if (firstStarshipCost) { module.exports.firstStarshipCost = firstStarshipCost }
   // TODO/INSTRUCTOR: ADD ANY FUNCTIONS YOU CREATE TO EXPORTS HERE
   //                  USE THE LINES ABOVE AS A REFERENCE
 }
+
