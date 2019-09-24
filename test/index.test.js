@@ -35,8 +35,8 @@ describe('getName()', () => {
 })
 describe('getHome()', () => {
   it('expected home for `Luke`', () => { expect(getHome(lukeSkywalker)).to.contain(`Tatooine`) })
-  it('expected name for `Leia`', () => { expect(getName(leiaOrgana)).to.contain(`Alderaan`) })
-  it('expected name for `Obi-Wan`', () => { expect(getName(obiWanKenobi)).to.contain(`Stewjon`) })
+  it('expected name for `Leia`', () => { expect(getHome(leiaOrgana)).to.contain(`Alderaan`) })
+  it('expected name for `Obi-Wan`', () => { expect(getHome(obiWanKenobi)).to.contain(`Stewjon`) })
 })
 describe('firstStarshipCost()', () => {
   it('expected firstStarshipCost for `Luke`', () => { expect(firstStarshipCost(lukeSkywalker)).to.eq(149999) })
