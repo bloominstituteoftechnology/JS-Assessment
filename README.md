@@ -1,70 +1,3 @@
-# TODO: Title: Nested Data Structures
-
-### TODO: Subheader: Exercise: Nested `Objects` & `Arrays`
-
-
-> TODO: Summary: a few succinct lines or paragraph.
-
-<!--
-EXAMPLE:
-This challenge will test your ability to work with nested Objects and Arrays.
-
-Uses [real-world 'inspired' data.](#data)
-
-> If you are experienced on this topic, expand the ["💡 Challenge Yourself!" section](#stretch) (following the instructions.)
--->
-
-##### Index
-
-* [Instructions](#instructions)
-* [Get Started](#get-started)
-> TODO: Include optional sections here:
-<!-- 
-Example:
-* Preview Test [Data](#data)
-* Stuck? Check [Hints](#hints) 
--->
-
-## Instructions
-
-> TODO: 
-
-**Task:** Complete the functions in [`index.js`](./index.js) and pass all tests specified in [`test/index.test.js`](./test/index.test.js) ✅
-
-
-<!--
-Example: 
-
-The difficulty increases as you progress.
-
-> Before you begin coding, review provided script files.
-
-**Summary of Functions to Test**
-
-1. `getName(character)` -> `Luke Skywalker`
-1. `getFilmCount(character)` -> 5
-
- -->
-
-### Stretch
-
-> TODO: Update/Replace Stretch Goals (see raw README to see tags for expanding section below)
-
-<details>
-  <summary> 💡 Challenge Yourself! (expand for stretch tips) </summary>
-
-
-* Research & use different patterns. (Destructuring, move common code into reusable helper methods, functional programming techniques)
-* Trade completed code with a peer:
-  * Pair program: Take turns (30-60 min.) working through a refactor. Talk through & optimize as needed.
-  * Trade code for feedback! (Example format: 3&1, 3 things that you liked and 1 to improve.)
-* See how many tests you can pass/complete before Googling or asking for help.
-* Time yourself. See if you can beat your own time *starting over.* **Speed run!**
-* When you're finished, refactor & improve readability. Write up why it is improved.
-
-</details>
-
-
 ## Get Started
 
 3 options are included below.
@@ -75,7 +8,7 @@ The CodeSandbox option is fast & highly recommended.
 
 > TODO: UPDATE CODESANDBOX LINK:
 
-[LAUNCH ON CODESANDBOX 🚀](https://codesandbox.io/s/github/LambdaSchool/exercise-template?previewwindow=tests)
+[LAUNCH ON CODESANDBOX 🚀](https://codesandbox.io/s/github/LambdaSchool/JS-Day2-Practice)
 
 
 <details>
