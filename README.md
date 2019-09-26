@@ -8,7 +8,7 @@ The CodeSandbox option is fast & highly recommended.
 
 > TODO: UPDATE CODESANDBOX LINK:
 
-[LAUNCH ON CODESANDBOX 🚀](https://codesandbox.io/s/github/LambdaSchool/JS-Assessment)
+[LAUNCH ON CODESANDBOX 🚀](https://codesandbox.io/s/github/LambdaSchool/JS-Day2-Practice)
 
 
 <details>

@@ -1,11 +1,11 @@
 {
-  "name": "js-assessment",
+  "name": "js-day2-practice",
   "version": "1.0.0",
   "description": "JS-Day2-Practice BELOW",
   "main": "index.js",
-  "homepage": "https://codesandbox.io/s/github/LambdaSchool/JS-Assessment",
+  "homepage": "https://codesandbox.io/s/github/LambdaSchool/JS-Day2-Practice",
   "repository": {
-    "url": "git@github.com:LambdaSchool/JS-Assessment.git",
+    "url": "git@github.com:LambdaSchool/JS-Day2-Practice.git",
     "type": "git"
   },
   "scripts": {
